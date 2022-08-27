@@ -1,5 +1,5 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)](https://rishavchanda.io)
-<h1 align="center">Hi ??, I'm Zoe Gong</h1>
+<h1 align="center">Hi, I'm Zoe Gong</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
