@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/walking-code-computer-gif-11570098)](https://rishavchanda.io)
+[![MasterHead](https://c.tenor.com/gYDr3NtUTt0AAAAC/matrix-code.gif)](https://rishavchanda.io)
 <h1 align="center">Hi ??, I'm Zoe Gong</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
